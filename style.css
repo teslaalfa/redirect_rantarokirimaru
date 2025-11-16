@@ -32,8 +32,6 @@ body {
     height: 50px;
 } 
 
-
-
 .imageLink1:hover {
     cursor: pointer;
     background-color: rgba(19, 18, 19, 0.548);
@@ -50,3 +48,4 @@ body {
     height: 80px;
 
 }
+
